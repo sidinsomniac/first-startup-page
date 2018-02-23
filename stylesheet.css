@@ -1,0 +1,37 @@
+.content{
+	text-align: center;
+	letter-spacing: 0.8rem;
+	padding-top: 25%;
+	text-shadow:0px 4px 6px #4fcdff, 
+				0px 5px 9px rgba(255,255,255,0.8),
+				0px 6px 18px rgba(255,255,255,0.3);
+}
+
+html{
+	height: 100%;
+}
+
+#findout{
+	letter-spacing: normal;
+	text-shadow: none;
+	color: #286382;
+	font-weight: 700;
+}
+
+body{
+	background: url(kinson-leung-264193.jpg);
+	color: white;
+	background-size: cover;
+	font-family: 'Encode Sans Expanded', sans-serif;
+}
+
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+
+
+hr{
+	max-width: 35%;
+	border-top: 
+}
